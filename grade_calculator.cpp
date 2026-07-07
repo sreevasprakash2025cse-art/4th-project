@@ -5,7 +5,7 @@ int main() {
     int marks;
 
     cout << "Enter Marks: ";
-    cin >> marks;
+    cin >> marks; 
 
     if(marks >= 90)
         cout << "Grade A";
